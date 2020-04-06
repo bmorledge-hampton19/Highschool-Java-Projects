@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/Setting up lwjgl"/>
+	<classpathentry exported="true" kind="lib" path="/Users/Ben/Google Drive/Slick Stuff/lib/lwjgl_util.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="/Users/Ben/Google Drive/lwjgl-2.9.0/native/macosx"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="/Users/Ben/Google Drive/Slick Stuff/lib/lwjgl.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="/Users/Ben/Google Drive/lwjgl-2.9.0/native/macosx"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="/Users/Ben/Google Drive/Slick Stuff/lib/slick.jar" sourcepath="/Users/Ben/Google Drive/Slick Stuff/lib">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="/Users/Ben/Google Drive/lwjgl-2.9.0/native/macosx"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/Ben/Google Drive/Slick Stuff/lib/jogg-0.0.7.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="/Users/Ben/Google Drive/lwjgl-2.9.0/native/macosx"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/Ben/Google Drive/Slick Stuff/lib/jorbis-0.0.15.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="/Users/Ben/Google Drive/lwjgl-2.9.0/native/macosx"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
